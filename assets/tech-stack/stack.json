@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Frontend",
+    "items": [
+      { "id": "react", "label": "React" },
+      { "id": "typescript", "label": "TypeScript" }
+    ]
+  },
+  {
+    "title": "Backend & Databases",
+    "items": [
+      { "id": "python", "label": "Python" },
+      { "id": "csharp", "label": "C#" },
+      { "id": "dotnetcore", "label": ".NET Core" },
+      { "id": "postgresql", "label": "PostgreSQL" },
+      { "id": "supabase", "label": "Supabase" },
+      { "id": "redis", "label": "Redis" },
+      { "id": "apachekafka", "label": "Apache Kafka" }
+    ]
+  },
+  {
+    "title": "Data & BI",
+    "items": [
+      { "id": "sql", "label": "SQL" },
+      { "id": "powerquery", "label": "Power Query" },
+      { "id": "powerbi", "label": "Power BI" },
+      { "id": "tableau", "label": "Tableau" }
+    ]
+  },
+  {
+    "title": "DevOps, Tools & Automation",
+    "items": [
+      { "id": "docker", "label": "Docker" },
+      { "id": "git", "label": "Git" },
+      { "id": "github", "label": "GitHub" },
+      { "id": "linux", "label": "Linux" },
+      { "id": "nginx", "label": "Nginx" },
+      { "id": "n8n", "label": "n8n" }
+    ]
+  }
+]

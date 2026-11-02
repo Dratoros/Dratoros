@@ -1,0 +1,6 @@
+[
+  { "id": "github", "label": "GitHub", "handle": "@DRATOROS", "url": "https://github.com/Dratoros" },
+  { "id": "linkedin", "label": "LinkedIn", "handle": "@DIEGO-WONNER", "url": "https://www.linkedin.com/in/diego-wonner-081825191/" },
+  { "id": "email", "label": "Email", "handle": "diegowonner@gmail.com", "url": "mailto:diegowonner@gmail.com" },
+  { "id": "instagram", "label": "Instagram", "handle": "@DIWONNER", "url": "https://www.instagram.com/diwonner/" }
+]

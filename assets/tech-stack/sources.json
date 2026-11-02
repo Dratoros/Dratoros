@@ -1,0 +1,110 @@
+[
+  {
+    "id": "react",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg",
+    "sha": "9af92b9dd783a9e1a2f07bdc5376724c08f05ef2",
+    "library": "Devicon"
+  },
+  {
+    "id": "typescript",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg",
+    "sha": "e1db5f196597f0815d315dfacf4191bb3df75fa4",
+    "library": "Devicon"
+  },
+  {
+    "id": "csharp",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg",
+    "sha": "acc487eb512c10a78f653a41a72c3f77400bf660",
+    "library": "Devicon"
+  },
+  {
+    "id": "dotnetcore",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg",
+    "sha": "3f1d629819ba1d19c9515d7df322573cf59f25ca",
+    "library": "Devicon"
+  },
+  {
+    "id": "python",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg",
+    "sha": "e0e096a24e59fb9f1e501899389e3905c6c27cd7",
+    "library": "Devicon"
+  },
+  {
+    "id": "supabase",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg",
+    "sha": "b61999ca33fdfe3e26d3eae47d2481f15895c2d8",
+    "library": "Devicon"
+  },
+  {
+    "id": "redis",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg",
+    "sha": "7aabb0dd08a6560efc2b4fe308c2b2acf25ee438",
+    "library": "Devicon"
+  },
+  {
+    "id": "apachekafka",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg",
+    "sha": "29836cf0fccc72c48645907d2fcf054273ef87e2",
+    "library": "Devicon"
+  },
+  {
+    "id": "n8n",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/n8n/n8n-original.svg",
+    "sha": "5316693bf9a064e7622bad364cb9918025ebe7fb",
+    "library": "Devicon"
+  },
+  {
+    "id": "postgresql",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg",
+    "sha": "4656cb79adde771d6eb3bf58647f4e82e89e083b",
+    "library": "Devicon"
+  },
+  {
+    "id": "git",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg",
+    "sha": "93f25f9235d5b3fdfc9b9c8256941a1ec22523af",
+    "library": "Devicon"
+  },
+  {
+    "id": "github",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg",
+    "sha": "4eca0628c00b55c4301b28d7a14d9f0262ba3dc3",
+    "library": "Devicon"
+  },
+  {
+    "id": "linux",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg",
+    "sha": "414a56ae3d5d7776518ac78e11216dd2251b3fe2",
+    "library": "Devicon"
+  },
+  {
+    "id": "nginx",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg",
+    "sha": "e8e8cdb10cc70602bbbe3ec4f0b7e695ddc7738a",
+    "library": "Devicon"
+  },
+  {
+    "id": "powerbi",
+    "source": "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg",
+    "sha": "f5c066b134d5898553caa47656ec8fce9c3833a7",
+    "library": "Microsoft Power BI Icons"
+  },
+  {
+    "id": "powerquery",
+    "source": "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg",
+    "sha": "5b23f21abcdfe1d9b16e5b487bcac1aefed37c35",
+    "library": "Microsoft Power BI Icons"
+  },
+  {
+    "id": "tableau",
+    "source": "https://github.com/simple-icons/simple-icons/blob/11.0.0/icons/tableau.svg",
+    "sha": "0c24b37b0bc640db8006c77fb1e37b6234d997fc",
+    "library": "Simple Icons 11.0.0"
+  },
+  {
+    "id": "docker",
+    "source": "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg",
+    "sha": "bbeaed2effdc1f6840aff73491a5faa2a585885b",
+    "library": "Devicon"
+  }
+]
