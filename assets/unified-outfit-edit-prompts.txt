@@ -1,0 +1,38 @@
+ABOUT
+Edit target: assets/avatar-sprites-short-hair.png
+Outfit reference: assets/work-sprites-white-monster.png
+
+Use case: identity-preserve.
+Asset type: editable pixel-art animation sprite atlas, 1536x1024, four columns by two rows.
+Input image 1 is the EDIT TARGET. Input image 2 is ONLY the outfit reference from an already approved animation.
+Primary request: change ONLY the avatar's clothing in image 1 to match image 2 EXACTLY: charcoal/navy technical hacker jacket with small blue sleeve accents, a vivid blue hoodie underneath with hood DOWN, dark fingerless gloves with blue trim, dark cargo trousers with blue utility accents and blue/navy sneakers with white soles. Same clothing in EVERY character pose. This is the same avatar in a consistent outfit across profile sections.
+Preserve the edit target's short faded haircut and compact low quiff, full beard, face identity, blue eyes, expression, body proportions, each pose, every hand position, and all props. Preserve the original sprite coordinates, scale, column and row positions and pose order. Do not borrow the computer, desk, chair or beverage from image 2. No added objects, labels, text, hats, masks or watermark. Keep crisp pixel-art edges and original palette.
+Background: genuine TRANSPARENT alpha zero around the sprites, including inside gaps. No opaque black backdrop, no checkerboard painted into pixels and no rectangular colored haze. Only local blue glow on existing magical props.
+Specific target constraints: seven axe-throw character poses and one isolated axe in the bottom-right cell. Replace ALL fantasy clothing (bronze armor, fur trim, scarf, cape, chain bracelets, fabric wraps, fantasy boots) with the exact modern outfit in reference 2. Keep the character's throwing action and hands gripping the axe in their original positions. The bottom-right isolated icy-blue runic axe must remain unchanged. Keep the held axe in cells 1-3 unchanged, and no held weapon in cells 4-7. Keep the powerful blue eyes and existing axe electricity. Preserve the squat action poses, no standing phone or desk poses.
+
+
+CONTACT
+Edit target: assets/contact-sprites-short-hair.png
+Outfit reference: assets/work-sprites-white-monster.png
+
+Use case: identity-preserve.
+Asset type: editable pixel-art animation sprite atlas, 1536x1024, four columns by two rows.
+Input image 1 is the EDIT TARGET. Input image 2 is ONLY the outfit reference from an already approved animation.
+Primary request: change ONLY the avatar's clothing in image 1 to match image 2 EXACTLY: charcoal/navy technical hacker jacket with small blue sleeve accents, a vivid blue hoodie underneath with hood DOWN, dark fingerless gloves with blue trim, dark cargo trousers with blue utility accents and blue/navy sneakers with white soles. Same clothing in EVERY character pose. This is the same avatar in a consistent outfit across profile sections.
+Preserve the edit target's short faded haircut and compact low quiff, full beard, face identity, blue eyes, expression, body proportions, each pose, every hand position, and all props. Preserve the original sprite coordinates, scale, column and row positions and pose order. Do not borrow the computer, desk, chair or beverage from image 2. No added objects, labels, text, hats, masks or watermark. Keep crisp pixel-art edges and original palette.
+Background: genuine TRANSPARENT alpha zero around the sprites, including inside gaps. No opaque black backdrop, no checkerboard painted into pixels and no rectangular colored haze. Only local blue glow on existing magical props.
+Specific target constraints: keep all eight standing smartphone poses, same black smartphone in the same hand with the tapping/scrolling fingers, same head tilt, slight smile, blink and pose sequence. Replace the plain blue zip hoodie/plain shirt and plain jeans with the reference's dark technical jacket OVER the blue hoodie, fingerless gloves, cargo pants and blue sneakers. Keep the compact outfit silhouette and exact pose placement. No axe or forge.
+
+
+FORGE
+Edit target: assets/forge-sprites.png
+Outfit reference: assets/work-sprites-white-monster.png
+
+Use case: identity-preserve.
+Asset type: editable pixel-art animation sprite atlas, 1536x1024, four columns by two rows.
+Input image 1 is the EDIT TARGET. Input image 2 is ONLY the outfit reference from an already approved animation.
+Primary request: change ONLY the avatar's clothing in image 1 to match image 2 EXACTLY: charcoal/navy technical hacker jacket with small blue sleeve accents, a vivid blue hoodie underneath with hood DOWN, dark fingerless gloves with blue trim, dark cargo trousers with blue utility accents and blue/navy sneakers with white soles. Same clothing in EVERY character pose. This is the same avatar in a consistent outfit across profile sections.
+Preserve the edit target's short faded haircut and compact low quiff, full beard, face identity, blue eyes, expression, body proportions, each pose, every hand position, and all props. Preserve the original sprite coordinates, scale, column and row positions and pose order. Do not borrow the computer, desk, chair or beverage from image 2. No added objects, labels, text, hats, masks or watermark. Keep crisp pixel-art edges and original palette.
+Background: genuine TRANSPARENT alpha zero around the sprites, including inside gaps. No opaque black backdrop, no checkerboard painted into pixels and no rectangular colored haze. Only local blue glow on existing magical props.
+Specific target constraints: keep all eight forging poses and all environment props: small stone forge with blue fire, steel anvil on wooden stump, icy-blue axe blade across anvil, forging hammer, coal bucket and tool stand. Keep raised hammer, hammer strike sparks, blade inspection, the leaned-over puckered mouth BLOWING across the blade in cell 7, and satisfied cell 8. Remove the leather smith apron, brown work gloves and brown boots; replace with the EXACT full hacker outfit from image 2 including jacket/hoodie/fingerless gloves/cargo/sneakers. Preserve the forge, anvil, stump and tools in their exact original locations. Row 1 bases reach y526; row2 begins after y540. Keep this spacing, don't move any scene components or cut the bases.
+

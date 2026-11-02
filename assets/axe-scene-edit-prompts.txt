@@ -1,0 +1,41 @@
+CONTACT
+Edit target: assets/contact-sprites-hacker.png
+Axe reference: assets/avatar-sprites-hacker.png
+Final atlas: assets/contact-sprites-hacker-axe.png
+
+Use case: precise-object-edit.
+Asset type: pixel-art animation sprite atlas, 1536x1024, 4 columns x 2 rows, transparent background.
+Input image 1: edit target. Input image 2: reference for the EXACT same magical axe only, particularly its bottom-right isolated weapon.
+The axe has a long dark wooden shaft wrapped with blue bands, silver pommel, broad curved icy-blue steel blade with a glowing circular blue rune and blue edge electricity. Preserve that design and substantial recognizable size, do not substitute a plain hatchet.
+Keep the avatar's identity, short faded haircut with compact quiff, full dark beard, blue eyes, charcoal technical jacket over vivid blue hoodie with hood down, fingerless gloves, blue-accented cargo pants and blue sneakers unchanged. Keep the original crisp pixel art style and consistent scale. Preserve the 4x2 cell layout, aligned sprite positions and pose order. Every full pose and every axe must fit within its own 384x512 cell with a clear transparent gutter, no clipping or overlaps between cells.
+Actual transparent alpha zero around objects; no opaque background or painted checkerboard, no rectangular colored haze. No titles, labels, watermark or added unrelated items.
+
+Primary request: give the standing smartphone avatar a held axe in ALL EIGHT poses.
+Change the arm which was tapping the phone: lower it naturally to the avatar's side, and have that hand securely grip the axe shaft. The axe hangs/rests angled beside the leg, blade visibly clear of the body, same axe and same grip throughout all poses. The other hand holds AND USES the smartphone one-handed, with the thumb touching/scrolling on the screen. Only two arms and two hands. Keep his gaze at the phone. Do not keep the old extra tapping hand. Do not attach the axe to the phone or float it nearby. The axe must visibly be held.
+Retain the eight subtle smartphone animation states: idle reading; thumb tap; thumb lifted; thumb scroll; slight phone tilt; brief smile/head nod; reset reading; blink. Same standing stance, feet baseline, head and phone position as the original as much as possible. The only pose changes are those required to hold the axe in one hand and use the phone with the other. No workstation or can.
+
+
+WORK
+Edit target: assets/work-sprites-white-monster.png
+Axe reference: assets/avatar-sprites-hacker.png
+Final atlas: assets/work-sprites-white-monster-axe.png
+
+Use case: precise-object-edit.
+Asset type: pixel-art animation sprite atlas, 1536x1024, 4 columns x 2 rows, transparent background.
+Input image 1: edit target. Input image 2: reference for the EXACT same magical axe only, particularly its bottom-right isolated weapon.
+The axe has a long dark wooden shaft wrapped with blue bands, silver pommel, broad curved icy-blue steel blade with a glowing circular blue rune and blue edge electricity. Preserve that design and substantial recognizable size, do not substitute a plain hatchet.
+Keep the avatar's identity, short faded haircut with compact quiff, full dark beard, blue eyes, charcoal technical jacket over vivid blue hoodie with hood down, fingerless gloves, blue-accented cargo pants and blue sneakers unchanged. Keep the original crisp pixel art style and consistent scale. Preserve the 4x2 cell layout, aligned sprite positions and pose order. Every full pose and every axe must fit within its own 384x512 cell with a clear transparent gutter, no clipping or overlaps between cells.
+Actual transparent alpha zero around objects; no opaque background or painted checkerboard, no rectangular colored haze. No titles, labels, watermark or added unrelated items.
+
+Primary request: add the reference axe propped upright at a slight angle BESIDE the seated workstation, in the same place in ALL EIGHT poses. It is resting with its pommel on the floor and its shaft leaning against the outside of the desk leg/chair, like a weapon parked in a room corner. Prefer the left outside edge of the workstation, leaving the avatar, desk and monitor visible. There is no need to draw a room wall: transparent sprites are composited into an existing panel.
+Make the axe clearly recognizable and visible as the same blue rune axe, roughly from floor to seated avatar shoulder height. It stays still while the avatar works. Fit it fully within each cell; use the existing left margin and slight overlap of desk/chair only, do not obstruct the face, keyboard or white can.
+Preserve ALL original eight avatar poses, hands, desk, monitor with blue code, keyboard, chair, shoes and the WHITE/SILVER Monster can exactly. Preserve typing, reaching for can, lifting it, sipping, lowering and returning to typing. Do not change the can to black or green. Do not make the avatar hold or swing the axe. The only visual addition is one stationary axe beside the desk in every frame.
+
+
+CONTACT POSE CORRECTION
+
+Use case: precise-object-edit.
+Image 1 is the edit target, a 1536x1024 transparent 4x2 pixel-art sprite atlas.
+Fix ONLY the SECOND pose in the TOP ROW (cell x384..767, y0..511). It incorrectly has THREE hands: one down holding the axe, one holding the phone, and an extra floating bent forearm/hand tapping the phone. REMOVE that third tapping hand and its bent forearm at chest level completely. Restore the blue hoodie and dark jacket behind where that extra arm was. The character must have exactly TWO arms and TWO hands, like all the other seven cells: one arm down at his side visibly gripping the axe, the other holding the smartphone and using its thumb. Adjust the thumb on the phone-holding hand in this second pose to touch the screen, making the tiny tap state.
+Preserve EVERY OTHER PIXEL in the other seven cells, the axe design, the avatar face, haircut, beard, hoodie and jacket, pants, shoes, smartphone, cell layout, transparent background, glow, positions and scale. Keep the axe-gripping arm and hand untouched. Do not add any text or background. Keep actual transparency and original alpha.
+
